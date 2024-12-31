@@ -1,0 +1,16 @@
+{
+  "codename": "BIG",
+  "ttf_path": "\\assets\\AGENCYB.TTF",
+  "bin_path": "\\assets\\ui_font_BIG.bin",
+  "c_path": "\\assets\\ui_font_BIG.c",
+  "cfg_path": "\\assets\\ui_font_BIG.fcfg",
+  "size": 42,
+  "bpp": 1,
+  "letters": 0,
+  "ranges": [
+    "0x20-0x7f"
+  ],
+  "symbols": "",
+  "customparams": "--no-compress --no-prefilter",
+  "uploaded": false
+}
